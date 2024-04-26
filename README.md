@@ -2,8 +2,8 @@
 
 ![Image alt](https://github.com/Thunder17/Unit-economy_analytics/raw/main/pic.png)
 ### Ссылка на дашборд
-https://public.tableau.com/views/PROJECT_DASHBOARD_17136171286220/-?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
-
+https://public.tableau.com/views/PROJECT_DASHBOARD_17136171286220
+Tableau public
 ## Описание Проекта
 
 Дашборд предназначен для помощи бизнесу в понимании стратегий приобретения и удержания клиентов, выявлении областей для улучшения и оптимизации маркетинговых усилий. Дашборд состоит из восьми интерактивных визуализаций, которые предоставляют подробный анализ когорт клиентов, ROI, LTV и CAC.
@@ -28,5 +28,4 @@ https://public.tableau.com/views/PROJECT_DASHBOARD_17136171286220/-?:language=en
 * Подробный анализ ROI, LTV и CAC для каждой когорты
 * Выводы о наиболее эффективных каналах привлечения и платформах
 * Рекомендации по оптимизации маркетинговых усилий и улучшению стратегий приобретения и удержания клиентов
-
 
