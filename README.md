@@ -2,7 +2,7 @@
 
 ![Image alt](https://github.com/Thunder17/Unit-economy_analytics/raw/main/pic.png)
 ### Ссылка на дашборд
-https://public.tableau.com/views/PROJECT_DASHBOARD_17136171286220/-?:la nguage=en-US&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/PROJECT_DASHBOARD_17136171286220/-?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Описание Проекта
 
