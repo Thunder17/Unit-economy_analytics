@@ -1,9 +1,8 @@
 # Проект Дашборда: Анализ Приобретения и Удержания Клиентов
 
-![Image alt](https://github.com/Thunder17/Unit-economy_analytics/raw/main/pic.png)
+![Image alt](https://github.com/Thunder17/Unit-economy_analytics/raw/main/dashboard.png)
 ### Ссылка на дашборд
-https://public.tableau.com/views/PROJECT_DASHBOARD_17136171286220
-Tableau public
+[Tableau public](https://public.tableau.com/views/PROJECT_DASHBOARD_17136171286220)
 ## Описание Проекта
 
 Дашборд предназначен для помощи бизнесу в понимании стратегий приобретения и удержания клиентов, выявлении областей для улучшения и оптимизации маркетинговых усилий. Дашборд состоит из восьми интерактивных визуализаций, которые предоставляют подробный анализ когорт клиентов, ROI, LTV и CAC.
