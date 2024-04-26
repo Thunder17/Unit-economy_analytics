@@ -1,6 +1,7 @@
 # Проект Дашборда: Анализ Приобретения и Удержания Клиентов
 
 ![Image alt](https://github.com/Thunder17/Unit-economy_analytics/raw/main/pic.png)
+### Ссылка на дашборд
 
 ## Описание Проекта
 
